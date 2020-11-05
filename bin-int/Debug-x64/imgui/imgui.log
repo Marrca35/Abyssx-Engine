@@ -1,0 +1,27 @@
+﻿  imgui_impl_glfw.cpp
+  imgui_impl_opengl3.cpp
+  imgui.cpp
+  imgui_demo.cpp
+  imgui_draw.cpp
+  imgui_widgets.cpp
+  imgui_stdlib.cpp
+  binary_to_compressed_c.cpp
+C:\dev\Walnut\vendor\imgui-1.77\misc\fonts\binary_to_compressed_c.cpp(262,28): warning C4244: '=': conversion from '__int64' to 'stb_uint', possible loss of data
+C:\dev\Walnut\vendor\imgui-1.77\misc\fonts\binary_to_compressed_c.cpp(279,31): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+C:\dev\Walnut\vendor\imgui-1.77\misc\fonts\binary_to_compressed_c.cpp(279,31): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+C:\dev\Walnut\vendor\imgui-1.77\misc\fonts\binary_to_compressed_c.cpp(281,63): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+C:\dev\Walnut\vendor\imgui-1.77\misc\fonts\binary_to_compressed_c.cpp(281,63): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+C:\dev\Walnut\vendor\imgui-1.77\misc\fonts\binary_to_compressed_c.cpp(283,63): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+C:\dev\Walnut\vendor\imgui-1.77\misc\fonts\binary_to_compressed_c.cpp(283,63): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+C:\dev\Walnut\vendor\imgui-1.77\misc\fonts\binary_to_compressed_c.cpp(285,31): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+C:\dev\Walnut\vendor\imgui-1.77\misc\fonts\binary_to_compressed_c.cpp(285,31): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+C:\dev\Walnut\vendor\imgui-1.77\misc\fonts\binary_to_compressed_c.cpp(298,37): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+C:\dev\Walnut\vendor\imgui-1.77\misc\fonts\binary_to_compressed_c.cpp(302,37): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+C:\dev\Walnut\vendor\imgui-1.77\misc\fonts\binary_to_compressed_c.cpp(306,37): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+C:\dev\Walnut\vendor\imgui-1.77\misc\fonts\binary_to_compressed_c.cpp(310,37): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+C:\dev\Walnut\vendor\imgui-1.77\misc\fonts\binary_to_compressed_c.cpp(315,37): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+C:\dev\Walnut\vendor\imgui-1.77\misc\fonts\binary_to_compressed_c.cpp(335,28): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+C:\dev\Walnut\vendor\imgui-1.77\misc\fonts\binary_to_compressed_c.cpp(337,67): warning C4244: 'argument': conversion from '__int64' to 'stb_uint', possible loss of data
+C:\dev\Walnut\vendor\imgui-1.77\misc\fonts\binary_to_compressed_c.cpp(338,14): warning C4244: 'return': conversion from '__int64' to 'int', possible loss of data
+C:\dev\Walnut\vendor\imgui-1.77\misc\fonts\binary_to_compressed_c.cpp(383,21): warning C4244: 'return': conversion from '__int64' to 'stb_uint', possible loss of data
+  imgui.vcxproj -> C:\dev\Walnut\\bin\Debug-x64\imgui\imgui.lib

@@ -1,0 +1,47 @@
+﻿  Light.cpp
+  Material.cpp
+  Logger.cpp
+  Cube.cpp
+C:\dev\Walnut\Walnut\src\walnut\util\Logger.h(3,10): fatal error C1083: Cannot open include file: 'spdlog/logger.h': No such file or directory (compiling source file src\walnut\util\Logger.cpp)
+  PerspectiveCamera.cpp
+C:\dev\Walnut\Walnut\src\walnut\objects\Light.h(17,37): warning C4100: 'specular': unreferenced formal parameter (compiling source file src\walnut\objects\Light.cpp)
+  Renderer.cpp
+  OrthographicCamera.cpp
+  main.cpp
+C:\dev\Walnut\Walnut\src\walnut\cameras\PerspectiveCamera.cpp(66,74): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\dev\Walnut\Walnut\src\walnut\cameras\PerspectiveCamera.cpp(67,76): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\dev\Walnut\Walnut\src\walnut\cameras\PerspectiveCamera.cpp(68,18): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\dev\Walnut\Walnut\src\walnut\cameras\PerspectiveCamera.cpp(69,18): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\dev\Walnut\Walnut\src\walnut\cameras\PerspectiveCamera.cpp(76,25): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+C:\dev\Walnut\Walnut\src\walnut\cameras\PerspectiveCamera.cpp(74,57): warning C4100: 'xoffset': unreferenced formal parameter
+  Shader.cpp
+C:\dev\Walnut\vendor\glm-0.9.9.9\glm\detail\type_quat.hpp(48,1): warning C4201: nonstandard extension used: nameless struct/union (compiling source file src\main.cpp)
+C:\dev\Walnut\vendor\glm-0.9.9.9\glm\detail\type_quat.hpp(133): message : see reference to class template instantiation 'glm::qua<T,Q>' being compiled (compiling source file src\main.cpp)
+C:\dev\Walnut\vendor\glm-0.9.9.9\glm\detail\type_quat.hpp(48,1): warning C4201: nonstandard extension used: nameless struct/union (compiling source file src\walnut\util\Shader.cpp)
+C:\dev\Walnut\vendor\glm-0.9.9.9\glm\detail\type_quat.hpp(133): message : see reference to class template instantiation 'glm::qua<T,Q>' being compiled (compiling source file src\walnut\util\Shader.cpp)
+C:\dev\Walnut\Walnut\src\main.cpp(47,14): warning C4100: 'userParam': unreferenced formal parameter
+C:\dev\Walnut\Walnut\src\main.cpp(45,10): warning C4100: 'length': unreferenced formal parameter
+C:\dev\Walnut\Walnut\src\main.cpp(43,9): warning C4100: 'id': unreferenced formal parameter
+C:\dev\Walnut\Walnut\src\main.cpp(41,24): warning C4100: 'source': unreferenced formal parameter
+C:\dev\Walnut\Walnut\src\main.cpp(271,18): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\dev\Walnut\Walnut\src\main.cpp(289,26): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\dev\Walnut\Walnut\src\main.cpp(290,47): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\dev\Walnut\Walnut\src\main.cpp(52,26): warning C4100: 'argv': unreferenced formal parameter
+C:\dev\Walnut\Walnut\src\main.cpp(52,14): warning C4100: 'argc': unreferenced formal parameter
+C:\dev\Walnut\Walnut\src\main.cpp(391,45): warning C4100: 'window': unreferenced formal parameter
+C:\dev\Walnut\Walnut\src\main.cpp(396,37): warning C4100: 'window': unreferenced formal parameter
+C:\dev\Walnut\Walnut\src\main.cpp(401,39): warning C4100: 'window': unreferenced formal parameter
+C:\dev\Walnut\Walnut\src\main.cpp(409,81): warning C4100: 'mods': unreferenced formal parameter
+C:\dev\Walnut\Walnut\src\main.cpp(409,55): warning C4100: 'scancode': unreferenced formal parameter
+C:\dev\Walnut\Walnut\src\main.cpp(458,12): warning C4100: 'nCmdShow': unreferenced formal parameter
+C:\dev\Walnut\Walnut\src\main.cpp(457,14): warning C4100: 'lpCmdLine': unreferenced formal parameter
+C:\dev\Walnut\Walnut\src\main.cpp(456,21): warning C4100: 'hPrevInst': unreferenced formal parameter
+C:\dev\Walnut\Walnut\src\main.cpp(455,18): warning C4100: 'hInst': unreferenced formal parameter

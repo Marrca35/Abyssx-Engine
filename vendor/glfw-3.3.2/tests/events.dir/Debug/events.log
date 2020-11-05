@@ -1,0 +1,6 @@
+﻿  Building Custom Rule C:/dev/SDL-OpenGL/vendor/glfw-3.3.2/tests/CMakeLists.txt
+  events.c
+  getopt.c
+  glad_gl.c
+  Generating Code...
+  events.vcxproj -> C:\dev\SDL-OpenGL\vendor\glfw-3.3.2\tests\Debug\events.exe

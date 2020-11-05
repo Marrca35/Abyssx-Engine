@@ -1,0 +1,5 @@
+﻿  Building Custom Rule C:/dev/SDL-OpenGL/vendor/glfw-3.3.2/tests/CMakeLists.txt
+  reopen.c
+  glad_gl.c
+  Generating Code...
+  reopen.vcxproj -> C:\dev\SDL-OpenGL\vendor\glfw-3.3.2\tests\Debug\reopen.exe

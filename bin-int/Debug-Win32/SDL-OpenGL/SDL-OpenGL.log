@@ -1,0 +1,18 @@
+﻿  stb_image.cpp
+  Cube.cpp
+  PerspectiveCamera.cpp
+  Renderer.cpp
+C:\dev\SDL-OpenGL\vendor\stb\stb_image.cpp(2,10): fatal error C1083: Cannot open include file: '../include/stb_image.h': No such file or directory
+  OrthographicCamera.cpp
+C:\dev\SDL-OpenGL\SDL-OpenGL\src\walnut\util\camera\PerspectiveCamera.cpp(5,10): fatal error C1083: Cannot open include file: 'GLFW/glfw3.h': No such file or directory
+  Texture2D.cpp
+C:\dev\SDL-OpenGL\SDL-OpenGL\src\walnut\util\camera\OrthographicCamera.cpp(4,10): fatal error C1083: Cannot open include file: 'GLFW/glfw3.h': No such file or directory
+  Window.cpp
+  main.cpp
+  VertexBufferLayout.cpp
+  IndexBuffer.cpp
+C:\dev\SDL-OpenGL\SDL-OpenGL\src\walnut\util\Texture2D.cpp(3,10): fatal error C1083: Cannot open include file: 'stb_image.h': No such file or directory
+  VertexBuffer.cpp
+  Shader.cpp
+  VertexArray.cpp
+C:\dev\SDL-OpenGL\SDL-OpenGL\src\main.cpp(9,10): fatal error C1083: Cannot open include file: 'GLFW/glfw3.h': No such file or directory

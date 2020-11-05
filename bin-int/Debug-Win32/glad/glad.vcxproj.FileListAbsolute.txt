@@ -1,0 +1,2 @@
+C:\dev\SDL-OpenGL\bin\Debug-Win32\glad\glad.pdb
+C:\dev\SDL-OpenGL\bin-int\Debug-Win32\glad\glad.pdb

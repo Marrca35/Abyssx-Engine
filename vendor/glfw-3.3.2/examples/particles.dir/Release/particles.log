@@ -1,0 +1,7 @@
+﻿  Building Custom Rule C:/dev/SDL-OpenGL/vendor/glfw-3.3.2/examples/CMakeLists.txt
+  particles.c
+  tinycthread.c
+  getopt.c
+  glad_gl.c
+  Generating Code...
+  particles.vcxproj -> C:\dev\SDL-OpenGL\vendor\glfw-3.3.2\examples\Release\particles.exe

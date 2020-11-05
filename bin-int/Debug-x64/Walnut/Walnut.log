@@ -1,0 +1,30 @@
+﻿  GLFWCallbackWrapper.cpp
+C:\dev\Walnut\Walnut\src\walnut\core\GLFWCallbackWrapper.cpp(9,86): warning C4100: 'ypos': unreferenced formal parameter
+C:\dev\Walnut\Walnut\src\walnut\core\GLFWCallbackWrapper.cpp(9,73): warning C4100: 'xpos': unreferenced formal parameter
+C:\dev\Walnut\Walnut\src\walnut\core\GLFWCallbackWrapper.cpp(9,58): warning C4100: 'window': unreferenced formal parameter
+C:\dev\Walnut\Walnut\src\walnut\core\GLFWCallbackWrapper.cpp(13,87): warning C4100: 'yoffset': unreferenced formal parameter
+C:\dev\Walnut\Walnut\src\walnut\core\GLFWCallbackWrapper.cpp(13,71): warning C4100: 'xoffset': unreferenced formal parameter
+C:\dev\Walnut\Walnut\src\walnut\core\GLFWCallbackWrapper.cpp(13,56): warning C4100: 'window': unreferenced formal parameter
+C:\dev\Walnut\Walnut\src\walnut\core\GLFWCallbackWrapper.cpp(15,92): warning C4100: 'mods': unreferenced formal parameter
+C:\dev\Walnut\Walnut\src\walnut\core\GLFWCallbackWrapper.cpp(15,80): warning C4100: 'action': unreferenced formal parameter
+C:\dev\Walnut\Walnut\src\walnut\core\GLFWCallbackWrapper.cpp(15,68): warning C4100: 'button': unreferenced formal parameter
+C:\dev\Walnut\Walnut\src\walnut\core\GLFWCallbackWrapper.cpp(15,56): warning C4100: 'window': unreferenced formal parameter
+C:\dev\Walnut\Walnut\src\walnut\core\GLFWCallbackWrapper.cpp(17,69): warning C4100: 'entered': unreferenced formal parameter
+C:\dev\Walnut\Walnut\src\walnut\core\GLFWCallbackWrapper.cpp(17,57): warning C4100: 'window': unreferenced formal parameter
+C:\dev\Walnut\Walnut\src\walnut\core\GLFWCallbackWrapper.cpp(19,48): warning C4100: 'window': unreferenced formal parameter
+glfw3.lib(context.obj) : warning LNK4099: PDB 'glfw.pdb' was not found with 'glfw3.lib(context.obj)' or at 'C:\dev\Walnut\bin\Debug-x64\Walnut\glfw.pdb'; linking object as if no debug info
+glfw3.lib(init.obj) : warning LNK4099: PDB 'glfw.pdb' was not found with 'glfw3.lib(init.obj)' or at 'C:\dev\Walnut\bin\Debug-x64\Walnut\glfw.pdb'; linking object as if no debug info
+glfw3.lib(input.obj) : warning LNK4099: PDB 'glfw.pdb' was not found with 'glfw3.lib(input.obj)' or at 'C:\dev\Walnut\bin\Debug-x64\Walnut\glfw.pdb'; linking object as if no debug info
+glfw3.lib(monitor.obj) : warning LNK4099: PDB 'glfw.pdb' was not found with 'glfw3.lib(monitor.obj)' or at 'C:\dev\Walnut\bin\Debug-x64\Walnut\glfw.pdb'; linking object as if no debug info
+glfw3.lib(vulkan.obj) : warning LNK4099: PDB 'glfw.pdb' was not found with 'glfw3.lib(vulkan.obj)' or at 'C:\dev\Walnut\bin\Debug-x64\Walnut\glfw.pdb'; linking object as if no debug info
+glfw3.lib(window.obj) : warning LNK4099: PDB 'glfw.pdb' was not found with 'glfw3.lib(window.obj)' or at 'C:\dev\Walnut\bin\Debug-x64\Walnut\glfw.pdb'; linking object as if no debug info
+glfw3.lib(win32_init.obj) : warning LNK4099: PDB 'glfw.pdb' was not found with 'glfw3.lib(win32_init.obj)' or at 'C:\dev\Walnut\bin\Debug-x64\Walnut\glfw.pdb'; linking object as if no debug info
+glfw3.lib(win32_joystick.obj) : warning LNK4099: PDB 'glfw.pdb' was not found with 'glfw3.lib(win32_joystick.obj)' or at 'C:\dev\Walnut\bin\Debug-x64\Walnut\glfw.pdb'; linking object as if no debug info
+glfw3.lib(win32_monitor.obj) : warning LNK4099: PDB 'glfw.pdb' was not found with 'glfw3.lib(win32_monitor.obj)' or at 'C:\dev\Walnut\bin\Debug-x64\Walnut\glfw.pdb'; linking object as if no debug info
+glfw3.lib(win32_time.obj) : warning LNK4099: PDB 'glfw.pdb' was not found with 'glfw3.lib(win32_time.obj)' or at 'C:\dev\Walnut\bin\Debug-x64\Walnut\glfw.pdb'; linking object as if no debug info
+glfw3.lib(win32_thread.obj) : warning LNK4099: PDB 'glfw.pdb' was not found with 'glfw3.lib(win32_thread.obj)' or at 'C:\dev\Walnut\bin\Debug-x64\Walnut\glfw.pdb'; linking object as if no debug info
+glfw3.lib(win32_window.obj) : warning LNK4099: PDB 'glfw.pdb' was not found with 'glfw3.lib(win32_window.obj)' or at 'C:\dev\Walnut\bin\Debug-x64\Walnut\glfw.pdb'; linking object as if no debug info
+glfw3.lib(wgl_context.obj) : warning LNK4099: PDB 'glfw.pdb' was not found with 'glfw3.lib(wgl_context.obj)' or at 'C:\dev\Walnut\bin\Debug-x64\Walnut\glfw.pdb'; linking object as if no debug info
+glfw3.lib(egl_context.obj) : warning LNK4099: PDB 'glfw.pdb' was not found with 'glfw3.lib(egl_context.obj)' or at 'C:\dev\Walnut\bin\Debug-x64\Walnut\glfw.pdb'; linking object as if no debug info
+glfw3.lib(osmesa_context.obj) : warning LNK4099: PDB 'glfw.pdb' was not found with 'glfw3.lib(osmesa_context.obj)' or at 'C:\dev\Walnut\bin\Debug-x64\Walnut\glfw.pdb'; linking object as if no debug info
+  Walnut.vcxproj -> C:\dev\Walnut\bin\Debug-x64\Walnut\Walnut.exe

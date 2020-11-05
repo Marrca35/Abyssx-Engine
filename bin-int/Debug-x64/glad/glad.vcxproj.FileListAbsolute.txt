@@ -1,0 +1,4 @@
+C:\dev\SDL-OpenGL\bin\Debug-x64\glad\glad.pdb
+C:\dev\SDL-OpenGL\bin-int\Debug-x64\glad\glad.pdb
+C:\dev\Walnut\bin\Debug-x64\glad\glad.pdb
+C:\dev\Walnut\bin-int\Debug-x64\glad\glad.pdb

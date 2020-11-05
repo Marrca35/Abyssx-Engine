@@ -1,0 +1,25 @@
+﻿  main.cpp
+  Texture2D.cpp
+C:\dev\SDL-OpenGL\vendor\glm-0.9.9.9\glm\detail\type_quat.hpp(48,1): warning C4201: nonstandard extension used: nameless struct/union (compiling source file src\main.cpp)
+C:\dev\SDL-OpenGL\vendor\glm-0.9.9.9\glm\detail\type_quat.hpp(133): message : see reference to class template instantiation 'glm::qua<T,Q>' being compiled (compiling source file src\main.cpp)
+C:\dev\SDL-OpenGL\SDL-OpenGL\src\main.cpp(46,14): warning C4100: 'userParam': unreferenced formal parameter
+C:\dev\SDL-OpenGL\SDL-OpenGL\src\main.cpp(44,10): warning C4100: 'length': unreferenced formal parameter
+C:\dev\SDL-OpenGL\SDL-OpenGL\src\main.cpp(42,9): warning C4100: 'id': unreferenced formal parameter
+C:\dev\SDL-OpenGL\SDL-OpenGL\src\main.cpp(40,24): warning C4100: 'source': unreferenced formal parameter
+C:\dev\SDL-OpenGL\SDL-OpenGL\src\main.cpp(265,18): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\dev\SDL-OpenGL\SDL-OpenGL\src\main.cpp(51,26): warning C4100: 'argv': unreferenced formal parameter
+C:\dev\SDL-OpenGL\SDL-OpenGL\src\main.cpp(51,14): warning C4100: 'argc': unreferenced formal parameter
+C:\dev\SDL-OpenGL\SDL-OpenGL\src\main.cpp(338,45): warning C4100: 'window': unreferenced formal parameter
+C:\dev\SDL-OpenGL\SDL-OpenGL\src\main.cpp(343,37): warning C4100: 'window': unreferenced formal parameter
+C:\dev\SDL-OpenGL\SDL-OpenGL\src\main.cpp(348,39): warning C4100: 'window': unreferenced formal parameter
+C:\dev\SDL-OpenGL\SDL-OpenGL\src\main.cpp(353,55): warning C4100: 'scancode': unreferenced formal parameter
+C:\dev\SDL-OpenGL\SDL-OpenGL\src\main.cpp(389,12): warning C4100: 'nCmdShow': unreferenced formal parameter
+C:\dev\SDL-OpenGL\SDL-OpenGL\src\main.cpp(388,14): warning C4100: 'lpCmdLine': unreferenced formal parameter
+C:\dev\SDL-OpenGL\SDL-OpenGL\src\main.cpp(387,21): warning C4100: 'hPrevInst': unreferenced formal parameter
+C:\dev\SDL-OpenGL\SDL-OpenGL\src\main.cpp(386,18): warning C4100: 'hInst': unreferenced formal parameter
+  Generating code
+  0 of 31 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  SDL-OpenGL.vcxproj -> C:\dev\SDL-OpenGL\bin\Test-x64\SDL-OpenGL\SDL-OpenGL.exe
